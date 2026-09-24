@@ -1,19 +1,28 @@
+<p align="center"><img src="logo.png" width="128" alt="AutoClicker + AutoKey logo"></p>
+
 # AutoClicker + AutoKey
 
 A keyboard + mouse macro recorder and autoclicker for Windows 10 / 11.
 
-**[⬇ Download the latest version](../../releases/latest)** — one `.exe`, no install needed.
-Windows may show *"Windows protected your PC"* the first time because the app isn't signed yet:
+**[⬇ Download the latest version](../../releases/latest)** — the installer (`AutoClickerAutoKey-Setup-….exe`)
+or just the app (`AutoClickerAutoKey.exe`, no install needed). Already have it? Click the green version badge in the
+app and it updates itself.
+Windows may show *"Windows protected your PC"* the first time because the app isn't signed:
 click **More info → Run anyway**.
 
 ## What it does
 
 - **Record & replay** keys, clicks, mouse movement and the scroll wheel with exact timing — loop it,
   speed it up, edit any step.
-- **Smart steps** — wait for a picture to appear on screen (and click it), type text, pause.
-- **Autoclicker** — click / hold / key modes, fixed spots or sequences, bursts, humanized timing.
-- **Triggers** — run on a schedule, or when a pixel or a picture shows up.
-- **Hotkeys, presets, per-game profiles**, target-window lock, fail-safe, levels & achievements.
+- **Smart steps** — wait for a picture or some text to appear on screen (and click it), If / else and
+  Repeat blocks, open apps, chain macros, type text, pause.
+- **Autoclicker** — click / hold / key / turbo modes, fixed spots or sequences, bursts, humanized timing.
+- **Triggers** — run on a schedule, or when a pixel, a picture or some words show up.
+- **Level up** — levels to 100 with a new rank every 5, prestige, 100+ achievements that boost your XP,
+  30 accent colours to unlock, and **My tab** (build your own tab) from level 10.
+- **Online leaderboard** (optional) — level, CPS test and daily streak, all time and this week.
+  Off until you join; only your chosen name and those numbers are sent.
+- **Hotkeys, presets, per-game profiles**, target-window lock, fail-safe, dark and light theme.
 
 ## Found a bug or want a feature?
 
