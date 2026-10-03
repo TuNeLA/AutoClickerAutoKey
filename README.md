@@ -37,9 +37,11 @@ run, so you can compare the two. The *Official download* link next to it opens t
 - **Start from a shortcut** — `--play "Farm"`, `--clicker "Fast"` or `--stop` from a desktop shortcut, the Task
   Scheduler or a Stream Deck button.
 - **Level up** — levels to 100 with a new rank every 5, and prestige. 17 achievement tracks from Bronze to Master
-  (plus one-offs and secrets), each adding to your XP bonus; about 115 titles, the rarest with colours that flow; a
-  Pet den with toys, eggs and an upgrade shop, whose pets boost your XP; daily and weekly quests; 31 accent colours
-  (8 free, the new Dash look by default) and **My tab** from level 10.
+  (plus one-offs and secrets), each adding to your XP bonus; about 115 titles, the rarest with colours that flow; daily
+  and weekly quests; 31 accent colours (8 free, the new Dash look by default) and **My tab** from level 10.
+- **Pet den** — click your pet for treats, hatch 51 pets (and 5 secret ones) from six eggs, merge three of a kind up
+  to Silver, Gold, Diamond and Rainbow, give them items and fill the collection. A fully maxed den adds up to +100 %
+  to your XP. No money involved: treats can't be bought.
 - **Test your hand** — CPS, reaction and aim tests, and a heat map of where the app clicked.
 - **Online leaderboard** (optional) — level, weekly XP with leagues, the CPS, reaction and aim tests, and streaks.
   Off until you join; then only your chosen name, title and showcase, those scores and which achievements you've
